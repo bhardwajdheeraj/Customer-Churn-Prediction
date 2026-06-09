@@ -1,0 +1,2 @@
+# System-level dependencies for Debian (Streamlit Cloud)
+libgomp1
